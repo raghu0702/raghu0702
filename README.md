@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @raghu0702
 - 👀 I’m interested in deep learning, ml, and front end development
-- 🌱 I’m currently learning ml/dl and dsa.
 - 💞️ I’m looking to collaborate on open source projects, and front end projects, possibly games XP.
 - 📫 How to reach me- mailto: suddapalliraghunandan@gmail.com, Phone: +919948119373
 
